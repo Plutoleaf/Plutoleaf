@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Plutoleaf, a teenager who codes when he feels like coding.
-- 👀 I’m interested in biotechnology, Java, Python and AI.
-- 🌱 I’m currently learning Java and Python. 
+- 🌺 he/him 16 y/o
+- 🏵️ Java Python HTML
+
 
 <!---
 Plutoleaf/Plutoleaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
