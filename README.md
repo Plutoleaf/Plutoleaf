@@ -1,5 +1,5 @@
-- 🌺 he/him 16 y/o
-- 🏵️ Java Python HTML
+- 🌺 he/him ~ 16 y/o
+- 🏵️ Java ~ Python ~ HTML
 
 
 <!---
